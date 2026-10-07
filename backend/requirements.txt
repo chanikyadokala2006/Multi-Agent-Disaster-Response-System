@@ -1,0 +1,46 @@
+# Web Framework & API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Database & Migrations
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Auth & Security
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+# AI & Multi-Agent Framework
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# Data Processing & Analytics
+scikit-learn
+pandas
+numpy
+
+# HTTP Clients
+httpx
+requests
+
+# Task Queue & Caching
+celery
+redis
+
+# Real-time Communication
+websockets
+
+# Geospatial Analysis (Disaster Mapping)
+geopy
+shapely
+
+# Utilities
+python-dotenv
+email-validator
